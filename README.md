@@ -1,7 +1,7 @@
 # Barada
 A future web application based on Python to source job offers from local job boards and serve susbscribers based on their preferences.
 
-**Tools used:**
+**Tools used**
 
 * A VPS running a LEMP stack (Ubuntu 18.10 + Nginx + MySQL + PHP)
 * Scrapy to collect and format informations from local job boards
