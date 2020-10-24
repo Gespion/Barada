@@ -14,10 +14,10 @@ A future web application based on Python to source job offers from local job boa
 
 **How it works**
 
-1 Set the python script to run once a week to collect jobs from 3 local job boards
-2 Clean and format the job offers
-3 Check for duplicate then store in DB
-4 Based on preferences from Excel list send custom job offers
+1. Set the python script to run once a week to collect jobs from 3 local job boards
+2. Clean and format the job offers
+3. Check for duplicate then store in DB
+4. Based on preferences from Excel list send custom job offers
 
 **To Do**
 
